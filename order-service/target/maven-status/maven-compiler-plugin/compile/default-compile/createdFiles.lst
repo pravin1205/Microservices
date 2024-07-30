@@ -1,0 +1,6 @@
+com\microservices\orderservice\services\OrderService.class
+com\microservices\orderservice\config\OrderConfig.class
+com\microservices\orderservice\repository\OrderRepository.class
+com\microservices\orderservice\Main.class
+com\microservices\orderservice\services\impl\OrderServiceImpl.class
+com\microservices\orderservice\controller\OrderController.class

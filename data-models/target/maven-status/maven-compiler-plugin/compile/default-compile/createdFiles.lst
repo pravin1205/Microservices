@@ -1,0 +1,14 @@
+com\microservices\datamodels\dto\OrderRequest.class
+com\microservices\datamodels\dto\ProductRequest.class
+com\microservices\datamodels\model\Product$ProductBuilder.class
+com\microservices\datamodels\dto\InventoryResponse$InventoryResponseBuilder.class
+com\microservices\datamodels\model\Inventory.class
+com\microservices\datamodels\model\OrderLineItems.class
+com\microservices\datamodels\Main.class
+com\microservices\datamodels\model\Product.class
+com\microservices\datamodels\model\Order.class
+com\microservices\datamodels\dto\ProductResponse$ProductResponseBuilder.class
+com\microservices\datamodels\dto\OrderLineItemsDto.class
+com\microservices\datamodels\dto\InventoryResponse.class
+com\microservices\datamodels\dto\ProductRequest$ProductRequestBuilder.class
+com\microservices\datamodels\dto\ProductResponse.class

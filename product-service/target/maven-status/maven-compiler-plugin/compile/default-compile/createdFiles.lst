@@ -1,0 +1,6 @@
+com\microservices\productservice\config\ProducerConfig.class
+com\microservices\productservice\controller\ProductController.class
+com\microservices\productservice\respository\ProductRepository.class
+com\microservices\productservice\Main.class
+com\microservices\productservice\services\ProductService.class
+com\microservices\productservice\services\impl\ProductServiceImpl.class
